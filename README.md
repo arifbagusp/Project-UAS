@@ -113,4 +113,4 @@ if __name__ == "__main__":
 Berikut Link Dokumentasi di Youtube : https://youtu.be/icONIrLUouA
 
 # Gambar Output
-![Alt text](<project uas-1.png>)>
+![Alt text](<project uas-1.png>)
